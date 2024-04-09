@@ -31,7 +31,7 @@
 
 1. Создаём эллипс со значением start (https://drive.google.com/file/d/1-9e4WPlcAtPSLPeuHFNhxckxQ3ByvNnk/view?usp=sharing)
 2. Создаём параллелограм для ввода пользователем массива (https://viewer.diagrams.net/?tags=%7B%7D&highlight=0000ff&edit=_blank&layers=1&nav=1&title=scheme-kontrolnaya.drawio#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1-9e4WPlcAtPSLPeuHFNhxckxQ3ByvNnk%26export%3Ddownload)
-3. Инициализация переменных и создание цикла (https://viewer.diagrams.net/?tags=%7B%7D&highlight=0000ff&edit=_blank&layers=1&nav=1&title=scheme-kontrolnaya.drawio#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1-9e4WPlcAtPSLPeuHFNhxckxQ3ByvNnk%26export%3Ddownload)
-4. Создание тела цикла (https://viewer.diagrams.net/?tags=%7B%7D&highlight=0000ff&edit=_blank&layers=1&nav=1&title=scheme-kontrolnaya.drawio#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1-9e4WPlcAtPSLPeuHFNhxckxQ3ByvNnk%26export%3Ddownload)
-5. Вносим правки и дописываем вывод (https://viewer.diagrams.net/?tags=%7B%7D&highlight=0000ff&edit=_blank&layers=1&nav=1&title=scheme-kontrolnaya.drawio#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1-9e4WPlcAtPSLPeuHFNhxckxQ3ByvNnk%26export%3Ddownload)
+3. Инициализация переменных и создание цикла (Инициализация переменных - прямоугольник, создание цикла - треугольник) (https://viewer.diagrams.net/?tags=%7B%7D&highlight=0000ff&edit=_blank&layers=1&nav=1&title=scheme-kontrolnaya.drawio#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1-9e4WPlcAtPSLPeuHFNhxckxQ3ByvNnk%26export%3Ddownload)
+4. Создание тела цикла (условие if - треугольник, обычные операции - прямоугольник) (https://viewer.diagrams.net/?tags=%7B%7D&highlight=0000ff&edit=_blank&layers=1&nav=1&title=scheme-kontrolnaya.drawio#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1-9e4WPlcAtPSLPeuHFNhxckxQ3ByvNnk%26export%3Ddownload)
+5. Вносим правки и дописываем вывод (вывод - document, end - circle) (https://viewer.diagrams.net/?tags=%7B%7D&highlight=0000ff&edit=_blank&layers=1&nav=1&title=scheme-kontrolnaya.drawio#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1-9e4WPlcAtPSLPeuHFNhxckxQ3ByvNnk%26export%3Ddownload)
 
