@@ -9,3 +9,7 @@
 7. В терминале пишем команду `echo "# gb-kontrolnaya_1" >> README.md`. Создаётся файл README.md
 8. Добавляем файл README.md в отслеживаемый: `git add README.md`. Проверяем добавление: `git status`
 9. Создаём первый коммит командой в терминале: `git commit -m "first commit"`
+10. Переименуем главную ветку в main: `git branch -M main`
+11. Проверим переименование: `git branch`
+12. Создадим соединение: `git remote add origin https://github.com/AndrIrkutsk/gb-kontrolnaya_1.git`
+13. Запушим на Гитхаб: `git push -u origin main`
